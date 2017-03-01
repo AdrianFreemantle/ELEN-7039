@@ -7,17 +7,17 @@ student to proceed with minimal supervision or assistance.
 
 ##Course Outcomes
 On successful completion of this course, the student is capable of:
-1. Identifying requirements, assumptions, success criteria and constraints that characterize
+* Identifying requirements, assumptions, success criteria and constraints that characterize
 the selected software design problem. The ability to contextualize the design with respect
 to relevant literature and existing solutions is also essential.
-1. Developing a software design that meets expected quality objectives, such as
+* Developing a software design that meets expected quality objectives, such as
 functionality, maintainability and reliability.
-1. Develop a design that displays evidence of originality and a suitable degree of attention
+* Develop a design that displays evidence of originality and a suitable degree of attention
 to detail.
-1. Applying an appropriate engineering methodology to arrive at acceptable design outputs.
-1. Validating and critically reviewing the final design output against the original
+* Applying an appropriate engineering methodology to arrive at acceptable design outputs.
+* Validating and critically reviewing the final design output against the original
 requirements and acceptable quality objectives.
-1. Making suitable tradeoffs.
-1. Demonstrate an understanding of how the design may be implemented.
-1. Presenting the design as a professional technical document, using accepted industry
+* Making suitable tradeoffs.
+* Demonstrate an understanding of how the design may be implemented.
+* Presenting the design as a professional technical document, using accepted industry
 notations.

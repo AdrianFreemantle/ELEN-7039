@@ -1,11 +1,11 @@
-<h1>Course Background and Purpose<h1>
+#Course Background and Purpose
 
 This is a “capstone” course in the “MEng in Information/Software Engineering” Programme. The
 objective is that students will undertake a design exercise that integrates knowledge accumulated
 in all of the “core” modules in the MEng programme. The design exercise also requires the
 student to proceed with minimal supervision or assistance.
 
-<H2>Course Outcomes<h2>
+##Course Outcomes
 On successful completion of this course, the student is capable of:
 1. Identifying requirements, assumptions, success criteria and constraints that characterize
 the selected software design problem. The ability to contextualize the design with respect

@@ -1,23 +1,3 @@
-#Course Background and Purpose
+Debit Orders provide a cost effective and convenient way for South African consumers to pay for services such as long-term insurance policies, with 48 million Debit Orders Debit Orders to the value of R61 billion being processed each month in South Africa. The current Debit Order process is open to abuse as written and voice recorded Debit Order mandates do not verify that the individual granting the mandate is the legal owner of the bank account, resulting in 8% of transactions being disputed. The South African Reserve Bank and the Payments Association of South Africa have launched the Authenticated Collections process to replace the Debit Order process. Transitioning to Authenticated Collections poses a challenge for many companies whose existing Debit Order processes are implemented on legacy platforms. 
 
-This is a “capstone” course in the “MEng in Information/Software Engineering” Programme. The
-objective is that students will undertake a design exercise that integrates knowledge accumulated
-in all of the “core” modules in the MEng programme. The design exercise also requires the
-student to proceed with minimal supervision or assistance.
-
-##Course Outcomes
-On successful completion of this course, the student is capable of:
-* Identifying requirements, assumptions, success criteria and constraints that characterize
-the selected software design problem. The ability to contextualize the design with respect
-to relevant literature and existing solutions is also essential.
-* Developing a software design that meets expected quality objectives, such as
-functionality, maintainability and reliability.
-* Develop a design that displays evidence of originality and a suitable degree of attention
-to detail.
-* Applying an appropriate engineering methodology to arrive at acceptable design outputs.
-* Validating and critically reviewing the final design output against the original
-requirements and acceptable quality objectives.
-* Making suitable tradeoffs.
-* Demonstrate an understanding of how the design may be implemented.
-* Presenting the design as a professional technical document, using accepted industry
-notations.
+This paper presents the design of a Billings System for a long-term insurer with an established legacy position. The Domain-Driven Design concept of a Bounded Context is used to extract an explicit Billings Domain Model from a legacy system, allowing the new model to evolve over time without affecting legacy functionality. The design is shown to be extensible, flexible, and maintainable and advantages and disadvantages of applying Domain-Driven Design techniques to replacing legacy systems functionality is discussed.
